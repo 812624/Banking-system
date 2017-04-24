@@ -1,4 +1,4 @@
-/****************TUTORIAL ON BANKING SYSTEM***********************/
+/****************PROJECT ON BANKING SYSTEM***********************/
 
 
 #include<iostream>
